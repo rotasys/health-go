@@ -13,5 +13,6 @@ require (
 	go.mongodb.org/mongo-driver v1.3.4
 	gocloud.dev v0.20.0
 	gocloud.dev/docstore/mongodocstore v0.20.0
+	gocloud.dev/pubsub/natspubsub v0.20.0
 	gopkg.in/yaml.v2 v2.2.8 // indirect
 )
