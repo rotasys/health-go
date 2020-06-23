@@ -1,4 +1,4 @@
-module github.com/hellofresh/health-go/v3
+module github.com/rotasys/health-go
 
 go 1.14
 
